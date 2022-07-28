@@ -1,0 +1,14 @@
+.body {
+    background-color: #efc050;
+}
+
+.title {
+    color: #45B8AC;
+    font: 'pacifico';
+}
+
+.p.link {
+    color: white;
+    font: 'pacifico';
+    background-color: #5b5ea6;        
+}
