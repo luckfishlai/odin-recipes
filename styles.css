@@ -2,24 +2,20 @@ body {
     background-color: #efc050;
 }
 
-title {
+.title {
     font-family: Pacifico, Arial, sans-serif;
     text-align: center;
     font-weight: bold;
 }
 
-img {
+.format {
     height: 500px;
     width: auto;
 }
 
-p{
-    color: white;
-    font-family: Pacifico, Arial, sans-serif;
-}
 
 .link {
-    font-weight: bold;
-    background-color: #45B8AC;        
+    font-family: Pacifico, Arial, sans-serif;
+    font-weight: bold;      
 }
 
