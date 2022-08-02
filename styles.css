@@ -1,26 +1,51 @@
 body {
     background-color: #efc050;
+    text-align: center;
+    font-family: Pacifico, Arial, sans-serif;
 }
 
 .title {
-    font-family: Pacifico, Arial, sans-serif;
     color: #45b8ac;
-    font-size: 72;
-    text-align: center;
+    font-size: 100;
     font-weight: bold;
+    text-decoration-line: underline;  
 }
 
 .link {
-    font-family: Pacifico, Arial, sans-serif;
-    font-weight: bold;      
+    font-weight: bold;  
+    font-size: 100;  
+    text-decoration-line: underline;  
 }
 
 
 .format {
     height: 500px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.ingredients {
-
+li {
+    color: #5b5ea6;
+    font-size: 75;
 }
+
+h2 {
+    color: #45b8ac;
+    font-size: 75;
+}
+
+h4 {
+    color: #d65076;
+    font-size: 75;
+    font-style: italic;
+    
+}
+
+.intro{
+    color: #5b5ea6;
+    font-size: 75;
+    text
+}
+
