@@ -31,10 +31,10 @@ body {
 li {
     color: #5b5ea6;
     font-size: 75;
+    display: inline-block;
 }
 
 h2 {
-    display: inline-block;
     color: #45b8ac;
     font-size: 75;
 }
