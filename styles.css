@@ -4,18 +4,23 @@ body {
 
 .title {
     font-family: Pacifico, Arial, sans-serif;
+    color: #45b8ac;
+    font-size: 72;
     text-align: center;
     font-weight: bold;
 }
-
-.format {
-    height: 500px;
-    width: auto;
-}
-
 
 .link {
     font-family: Pacifico, Arial, sans-serif;
     font-weight: bold;      
 }
 
+
+.format {
+    height: 500px;
+    width: auto;
+}
+
+.ingredients {
+
+}
