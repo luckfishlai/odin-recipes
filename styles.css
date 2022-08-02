@@ -34,6 +34,7 @@ li {
 }
 
 h2 {
+    display: inline-block;
     color: #45b8ac;
     font-size: 75;
 }
